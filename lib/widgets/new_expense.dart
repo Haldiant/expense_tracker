@@ -32,6 +32,9 @@ class _NewExpenseState extends State<NewExpense> {
           ),
           SizedBox(height: 16.0),
           Row(
+            children: [],
+          ),
+          Row(
             children: [
               ElevatedButton(
                 onPressed: () {
